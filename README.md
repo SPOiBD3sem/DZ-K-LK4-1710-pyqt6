@@ -1,8 +1,8 @@
 # Приложения на PyQt6
 
-<img width="914" height="743" alt="Снимок экрана 2025-10-25 214357" src="https://github.com/user-attachments/assets/3048d403-388a-4b20-8e8b-0ad7cc6da391" />
+<img width="913" height="844" alt="Снимок экрана 2025-10-25 230753" src="https://github.com/user-attachments/assets/123b9055-2221-497b-8d08-2c932450864e" />
 
-<img width="730" height="1028" alt="Снимок экрана 2025-10-25 223731" src="https://github.com/user-attachments/assets/c8eeaec9-5050-495c-8947-6ff75cb62597" />
+<img width="724" height="1032" alt="Снимок экрана 2025-10-26 002245" src="https://github.com/user-attachments/assets/16c4217e-a827-4c14-b893-44882bba09fd" />
 
 ## Описание проектов
 Коллекция графических приложений, реализованных с использованием PyQt6 - мощного фреймворка для создания современных пользовательских интерфейсов. Оба проекта демонстрируют различные подходы к построению GUI с использованием объектно-ориентированной архитектуры.
